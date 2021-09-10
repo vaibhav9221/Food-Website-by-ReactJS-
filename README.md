@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# This is Food webiste made up of React Js.
+## Data stored in this are in Json Format. 
+
+## For code please select src.
+
+# How to use REACT
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
